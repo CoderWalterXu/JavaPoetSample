@@ -1,0 +1,2 @@
+include ':app', ':JavaPoetCompiler'
+rootProject.name='JavaPoetSample'
